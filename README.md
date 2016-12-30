@@ -21,8 +21,11 @@ Features
 Installation (for Users)
 --------------------------
 
-Just install the extension from [the Chrome Web
-Store](https://chrome.google.com/webstore/detail/lhondapiaknegjpellpodegmeonigjic)!
+1) Click "Releases" on the Github page
+2) Download latest stable version in .crx format
+3) Open Tools > Settings > Extensions
+4) Drag and drop the .crx file in Extensions
+5) Click "Add extension"
 
 Then surf YouTube, comforted by the protection you are now afforded.
 
