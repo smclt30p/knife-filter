@@ -21,11 +21,11 @@ Features
 Installation (for Users)
 --------------------------
 
-1) Click "Releases" on the Github page
-2) Download latest stable version in .crx format
-3) Open Tools > Settings > Extensions
-4) Drag and drop the .crx file in Extensions
-5) Click "Add extension"
+1) Click "Releases" on the Github page   
+2) Download latest stable version in .crx format   
+3) Open Tools > Settings > Extensions     
+4) Drag and drop the .crx file in Extensions   
+5) Click "Add extension"   
 
 Then surf YouTube, comforted by the protection you are now afforded.
 
