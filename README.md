@@ -1,7 +1,11 @@
 Knife Filter
 ================================
-A Chrome extension that removes hot videos from YouTube suggestions.
+A Chrome extension that removes hot videos from YouTube suggestions, such as:
 
+"GLOWING 1000 DEGREE KNIFE CUTS XYZ"   
+"GLOWING 1000 DEGREE BALL MELTS XYZ"   
+
+... and any video that contains the words "1000 degree".
 
 Overview
 --------------------------
