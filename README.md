@@ -1,36 +1,22 @@
-Trump Filter
+Knife Filter
 ================================
-A Chrome extension that removes Donald Trump from the Internet.
+A Chrome extension that removes hot videos from YouTube suggestions.
 
 
 Overview
 --------------------------
-In a culture fueled by celebrity and an electorate engineered for polarity,
-how can any one in these United States of America be surprised by the campaign
-of Donald J. Trump? Minted by shady back room real estate, distributed by
-reality television and crowned by incessant polling of ultra-early primary
-voters, Trump is the latest, hilarious permutation of American leadership. He is
-not the candidate we need, but surely the one we deserve.
+In a culture fueled by clickbait, some people have gone a step further,
+and creating a lot of useless videos made for the general masses, gathering
+millions of dollars of revenue based on nothing, but a piece of metal that is
+hot.
 
-In a political atmosphere where ascendance can be manufactured through attention,
-the only way to deflate Trump's political star is through suffocation. Trump 
-can only lose if we turn off the TV.
-
-Thus, the Trump Filter is presented as part of the antidote for this toxic
-candidacy. This Chrome extension will identify parts of a web page likely to
-contain Donald Trump and erase them from the Internet.
-
-Share with your friends and eliminate the only currency Trump can spend to win:
-brand recognition.
-
+Thus, this filter is presented to counter those videos beign suggested and clicked
+on by accident.
 
 Features
 --------------------------
 
-* Detects instances of Donald Trump on web pages, warning users of the horror they may contain.
-* Attempts to identify semantically sections of the page likely to contain Donald Trump and removes them from the page.
-* Sensitivity settings to customize the aggressiveness of the filter - remove single references, chunks or the entire page.
-
+* Detects instances of Hot Knife videos on YouTube search and suggestions
 
 Installation (for Users)
 --------------------------
@@ -38,18 +24,18 @@ Installation (for Users)
 Just install the extension from [the Chrome Web
 Store](https://chrome.google.com/webstore/detail/lhondapiaknegjpellpodegmeonigjic)!
 
-Then surf the web, comforted by the protection you are now afforded.
+Then surf YouTube, comforted by the protection you are now afforded.
 
 
 Installation (for Developers)
 -------------------------
-Want to hack on the Trump Filter?  Sweet!
+Want to hack on the Knife Filter?  Sweet!
 
 Here's a howto to get the source of the Chrome Extension running in your environment.
 
 1) Grab latest source
 <pre>
-git clone https://github.com/RobSpectre/Trump-Filter.git
+git clone https://github.com/smclt30p/knife-filter.git
 </pre>
 
 2) Enable Chrome Extension in your Chrome install
@@ -58,7 +44,7 @@ Open Chrome.
 Navigate to Settings... Tools... Extensions.
 Click + on "Developer mode"
 Click "Load unpacked extensions..."
-Navigate to directory you installed Trump Filter and click Open.
+Navigate to directory you installed Knife Filter and click Open.
 Chuckle to self as you reload this page and significant chunks of it suddenly disappear.
 </pre>
 
@@ -68,6 +54,7 @@ Chuckle to self as you reload this page and significant chunks of it suddenly di
 Meta
 -------------------------
 
-* Created by [Rob Spectre](http://brooklynhacker.com).
+* Created originally by [Rob Spectre](http://brooklynhacker.com).
+* Hacked to work with hot stuff by Ognjen Galić
 * This work is licensed under GPLv3.
 * Lovingly crafted in Brooklyn, NY.

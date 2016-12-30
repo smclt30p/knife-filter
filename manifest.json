@@ -1,12 +1,12 @@
 {
   "manifest_version": 2,
-  "name": "Trump Filter",
-  "version": "1.1.1",
-  "description": "Remove Donald Trump from the Internet.",
-  "page_action" :
+  "name": "Knife Filter",
+  "version": "1.0.0",
+  "description": "Remove hot stuff from suggestions on YouTube",
+  "browser_action" :
   {
     "default_icon" : "images/icon-19x19.png",
-    "default_title" : "Warning: Trump is on this page!"
+    "default_title" : "Knife Filter"
   },
   "permissions": [
     "tabs",
@@ -34,14 +34,5 @@
     "128": "images/icon-128x128.png",
     "130": "images/icon-130x130.png",
     "550": "images/icon-550x550.png"
-  },
-  "background": {
-    "persistent": false,
-    "page": "background.html"
-  },
-  "options_ui" : {
-    "chrome_style": true,
-    "page": "options.html"
-  },
-  "content_security_policy": "script-src 'self' https://www.google-analytics.com; object-src 'self'"
+  }
 }
