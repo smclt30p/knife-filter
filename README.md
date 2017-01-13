@@ -65,3 +65,4 @@ Meta
 * Hacked to work with hot stuff by Ognjen Galić
 * This work is licensed under GPLv3.
 * Lovingly crafted in Brooklyn, NY.
+* Pitifully hacked up in Banja Luka, BA
